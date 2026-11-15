@@ -1,3 +1,29 @@
+# Bigscity-LibCity
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+LibCity: An Open Library for Urban Spatial-temporal Data Mining
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+LibCity：城市时空数据挖掘的开源工具库。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 ![](https://bigscity-libcity-docs.readthedocs.io/en/latest/_images/logo.png)
 
 ------
